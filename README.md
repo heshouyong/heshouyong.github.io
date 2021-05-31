@@ -16,3 +16,7 @@
 hello world！
 ```
 
+这是一个链接 [天行常](https://const.net.cn)
+
+看下什么时候能够收录。
+
