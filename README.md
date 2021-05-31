@@ -16,7 +16,13 @@
 hello world！
 ```
 
-这是一个链接 [天行常](https://const.net.cn) （）
+MarkDown 使用的三种方式：
+
+这是一个链接 [天行常](https://const.net.cn) 
+
+<https://const.net.cn> 
+
+`https://const.net.cn`
 
 看下什么时候能够收录。
 
